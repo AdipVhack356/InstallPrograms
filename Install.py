@@ -16,7 +16,7 @@ time.sleep(5)
 os.system('clear')
 print '\t===================='
 print '\t|Author:Adip|'
-print '\t|YESoutube:Adip Official|'
+print '\t|Youtube:Adip Official|'
 print '\t|Github:-|'
 print '\t===================='
 print ''
@@ -43,45 +43,85 @@ os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg update')
+os.system('pkg update -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg upgrade')
+os.system('pkg upgrade -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg install python')
+os.system('pkg install python -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg install figlet')
+os.system('pkg install figlet -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg install nano')
+os.system('pkg install nano -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
 
 print 'Menginstall.......'
 time.sleep(2)
-os.system('pkg install git')
+os.system('pkg install git -y')
+print ''
 print 'Install Selesai[YES]'
 time.sleep(3)
 os.system('clear')
+
+print 'Menginstall.......'
+time.sleep(2)
+os.system('pkg install python3 -y')
+print ''
+print 'Install Selesai[YES]'
+time.sleep(3)
+os.system('clear')
+
+print 'Menginstall.......'
+time.sleep(2)
+os.system('pkg install notech -y')
+print ''
+print 'Install Selesai[YES]'
+time.sleep(3)
+os.system('clear')
+
+print 'Menginstall.......'
+time.sleep(2)
+os.system('pkg install toilet -y')
+print ''
+print 'Install Selesai[YES]'
+time.sleep(3)
+os.system('clear')
+
+print 'Menginstall.......'
+time.sleep(2)
+os.system('pkg install cow -y')
+print ''
+print 'Install Selesai[YES]'
+time.sleep(3)
+os.system('clear')
+
+
 
 os.system('xdg-open https://www.Youtube.com/channel/UCqMYXvvp-DJ2ORRNioZoM3w')
 os.system('clear')
