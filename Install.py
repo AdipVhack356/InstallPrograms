@@ -17,7 +17,7 @@ os.system('clear')
 print '\t===================='
 print '\t|Author:Adip|'
 print '\t|Youtube:Adip Official|'
-print '\t|Github:-|'
+print '\t|Github:https://github.com/AdipVhack356|'
 print '\t===================='
 print ''
 print 'Tools Ini HanYA Menginstall Berbagai Program Berat'
